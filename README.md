@@ -1,5 +1,27 @@
-# 💫 About Me:
-I am a web developer who possesses knowledge of the MERN stack and develop web applications and user interface.
+# Hi, I'm <a href='https://dev.to/mohitkota_2003' target="_blank">Piyush</a>! <img src="Profile1/run.png" width="50">
+
+![Cover](Profile1/coverImg.gif)
+
+<img align='right' src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="230">
+
+# <img src="Profile1/cofi.png" width="50"> About Me:
+
+```javascript
+const PiyushKr = {
+  pronouns: "he" | "him",
+  I'm : ["Web Developer", "FreeLancer", "Competitive Programming"],
+  code: [Java, SQL, Javascript, CSS, PHP, C/C++],
+  tools & Tech: [React JS, vscode, Node, SQL, MongoDB, ReactNative, Git, Postman],
+  TechWork: {
+          Competitive Programming: "Solving Problems",
+    },
+  Experience: {
+          Software_Developer Intern: "Quantum Wave IT Solutions",
+    },
+ challenge: "Currently I'm focused on enhancing my tech skills in world of complex web applications"
+}
+```
+
 
 
 ## 🌐 Socials:
@@ -29,5 +51,7 @@ I am a web developer who possesses knowledge of the MERN stack and develop web a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=piyush121728&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3><img align='left' src="Profile1/dance.gif" width="50">Let's connect and learn together!</h3>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
