@@ -14,9 +14,6 @@ I am a web developer who possesses knowledge of the MERN stack and develop web a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piyush121728&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/haribol1zero8?ext=heatmap)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
